@@ -1,0 +1,5 @@
+docsGetter.py
+.venv/
+cache/
+out/
+nexus_build_result.yaml
